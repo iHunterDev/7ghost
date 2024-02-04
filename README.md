@@ -21,7 +21,7 @@
 
 ## 说明
 * 后台地址为：<br>\_admin\</br>
-* 默认登录密码：<br>123456</br>
+* 默认登录密码：<br>admin888</br>
 * 可编辑: <br>\_admin\data\config.php</br> 修改。
 
 ## 更新预告
